@@ -69,3 +69,8 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Atharv22-gt/Atharv22-gt/output/snake.svg" alt="GitHub Snake Animation" />
+</p>
+
+
