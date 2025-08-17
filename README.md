@@ -1,9 +1,9 @@
-<!-- Banner -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Atharv22/Atharv22/main/assets/banner.png" alt="banner" width="800"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Atharv</h1>
+<h1 align="center">Hi 👋, I'm Atharv Kulkarni</h1>
 <h3 align="center">🚀 DevOps Engineer | Cloud | Automation Enthusiast</h3>
 
 ---
