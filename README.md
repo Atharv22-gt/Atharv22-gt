@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Atharv22/Atharv22/main/assets/banner.png" alt="banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/Atharv22-gt/Atharv22-gt/main/assets/banner.png" alt="Atharv Banner" width="1000"/>
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Atharv Kulkarni</h1>
 <h3 align="center">🚀 DevOps Engineer | Cloud | Automation Enthusiast</h3>
